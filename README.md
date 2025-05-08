@@ -1,3 +1,2 @@
-app like 
 
-(https://pradeeapp.streamlit.app/)[applink]
+(https://pradeeapp.streamlit.app/) [applink]
