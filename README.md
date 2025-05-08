@@ -7,6 +7,3 @@ This interactive Streamlit dashboard allows you to explore key insights from the
 ## 🚀 Live Demo
 
 👉 [Click here to open the app](https://pradeeapp.streamlit.app/)
-
-## 📁 Project Structure
-
